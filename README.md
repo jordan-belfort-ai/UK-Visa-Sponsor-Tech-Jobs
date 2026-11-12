@@ -1,40 +1,85 @@
-# UK tech jobs at licensed visa sponsors (722 roles, updated 2026-11-11)
+# UK tech jobs at licensed visa sponsors (714 roles, updated 2026-11-12)
 
 Tech roles in the UK posted in the last 30 days by employers on the Home Office [register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) (Skilled Worker route), read daily from employers' own career pages (Greenhouse, Ashby, Lever, Workday, SmartRecruiters, Workable and more). Every link goes to the employer.
 
 **Being a licensed sponsor does not mean every role is sponsored.** Check the posting, and ask. Employers are matched to the register by exact legal name, so some sponsors are missing (a different legal name) rather than wrongly included. 🆕 = posted in the last 2 days.
 
-**722 roles at 254 sponsors.** Most open: Capgemini (35), Leonardo (24), Graphcore (23), RELX (19), GSK (14), Global Payments (14), iwoca (13), Prolific Academic Ltd (13), Netcompany (12), ALTEN (12), Cloudflare (12), Databricks (12)
+**714 roles at 249 sponsors.** Most open: Capgemini (37), Graphcore (24), Leonardo (22), RELX (19), GSK (16), iwoca (13), Prolific Academic Ltd (13), Global Payments (12), ALTEN (12), Netcompany (11), Cloudflare (11), Databricks (11)
 
 Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https://jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs/)
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
-| BT Group | 🆕 [Software Engineering Specialist](https://jobs.bt.com/BT/job/Belfast-Software-Engineering-Specialist-BT1-3BT/1370098857/) | Belfast, GB |  | 2026-11-11 |
+| BT Group | 🆕 [Software Engineering Specialist](https://jobs.bt.com/BT/job/Belfast-Software-Engineering-Specialist-BT1-3BT/1368673357/) | Belfast, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Microsoft Azure Managing Solutions Architect](https://careers.capgemini.com/job/London-Microsoft-Azure-Managing-Solutions-Architect/1385147933/) | London, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Microsoft Dynamics Developer- Manchester, UK](https://careers.capgemini.com/job/Manchester-Microsoft-Dynamics-Developer-Manchester%2C-UK/1453805033/) | Manchester, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Product Manager (AI & Transformation) - Associate Consultant - AI & Digital Factory](https://careers.capgemini.com/job/London-Product-Manager-%28AI-&-Transformation%29-Associate-Consultant-AI-&-Digital-Factory/1453800933/) | London, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Azure Data Solution Architect](https://careers.capgemini.com/job/Birmingham-Azure-Data-Solution-Architect/1388025633/) | Birmingham, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [AI Platform Engineer- Senior Consultant-AI and Digital Factory](https://careers.capgemini.com/job/London-AI-Platform-Engineer-Senior-Consultant-AI-and-Digital-Factory/1441521633/) | London, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Senior Forward Deployed Engineer(AI/GenAI)](https://careers.capgemini.com/job/London-Senior-Forward-Deployed-Engineer%28AIGenAI%29/1454240133/) | London, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Cloud Native DevOps Engineer (AWS)](https://careers.capgemini.com/job/Bristol-Cloud-Native-DevOps-Engineer-%28AWS%29/1414228333/) | Bristol, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Principal Software Engineer](https://careers.capgemini.com/job/London-Principal-Software-Engineer/1436123433/) | London, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Cloud Native Engineer- (AWS)](https://careers.capgemini.com/job/London-Cloud-Native-Engineer-%28AWS%29/1414227133/) | London, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Databricks Data Solution Architect](https://careers.capgemini.com/job/Birmingham-Databricks-Data-Solution-Architect/1388466233/) | Birmingham, GB |  | 2026-11-12 |
+| Capgemini | 🆕 [Senior Test Automation Engineer](https://careers.capgemini.com/job/London-Senior-Test-Automation-Engineer/1453776933/) | London, GB |  | 2026-11-12 |
+| Isembard | 🆕 [Forward Deployed Engineer](https://jobs.ashbyhq.com/isembard/f92c3094-2d12-4d4e-ac9f-2936596813e4) | London (onsite) |  | 2026-11-11 |
+| Kaluza | 🆕 [Product Manager (CCaaS) - (Fluent French & English)](https://jobs.ashbyhq.com/kaluza/8f730128-5ff4-4ed8-ac64-bef8b730bdd7) | London, UK (hybrid) |  | 2026-11-11 |
+| Experian | 🆕 [Senior Software Engineer - Python](https://jobs.smartrecruiters.com/Experian/744000161113082) | London, United Kingdom (onsite) |  | 2026-11-11 |
+| Experian | 🆕 [Senior FullStack Engineer - TypeScript - Python](https://jobs.smartrecruiters.com/Experian/744000161116159) | London, United Kingdom (hybrid) |  | 2026-11-11 |
+| Carwow | 🆕 [Senior Product Manager (Retail Media)](https://jobs.ashbyhq.com/carwow/6b8325bc-c666-49e1-83ba-06a5a0457af0) | London (hybrid) |  | 2026-11-11 |
+| Carwow | 🆕 [Senior Product Manager (Consumer App)](https://jobs.ashbyhq.com/carwow/80bce0bb-db3c-4977-82db-aa8bdcd24342) | London |  | 2026-11-11 |
+| Synthesia | 🆕 [Product Manager, Interactive Avatars (Staff/Principal-level - SDKs, APIs)](https://jobs.ashbyhq.com/synthesia/e934a7ac-b668-46c0-9953-eed4504658b7) | London (hybrid) |  | 2026-11-11 |
+| Isembard | 🆕 [Automation Engineer](https://jobs.ashbyhq.com/isembard/c701b40d-c423-4f28-9c16-58a17d3e19e1) | London (onsite) |  | 2026-11-11 |
+| hyperexponential | 🆕 [Product Engineer](https://jobs.ashbyhq.com/hyperexponential/a9291617-1643-4d76-b742-b9aca8fc420f) | London (hybrid) (hybrid) |  | 2026-11-11 |
+| 9fin | 🆕 [Senior Product Manager (Platform & Developer Experience)](https://jobs.ashbyhq.com/9fin/9b631c55-3d7d-4848-9eff-04f5edf2e41c) | London (hybrid) |  | 2026-11-11 |
+| Helsing | 🆕 [Product Manager - Autonomy](https://helsing.ai/jobs/5034019101?gh_jid=5034019101) | Berlin; Munich - Berlin - London |  | 2026-11-11 |
+| Kaluza | 🆕 [Platform Engineer (C3)](https://jobs.ashbyhq.com/kaluza/98bd1a92-41f6-4cc8-9a10-44fc0ca271c5) | Edinburgh, UK (hybrid) |  | 2026-11-11 |
+| hyperexponential | 🆕 [Senior Product Engineer](https://jobs.ashbyhq.com/hyperexponential/db6e0cfd-9b34-45c7-aa64-112062fbea16) | London (hybrid) (hybrid) |  | 2026-11-11 |
+| hyperexponential | 🆕 [Staff Product Engineer](https://jobs.ashbyhq.com/hyperexponential/8877d13b-3e4f-4639-ae35-a4d3cec9ba00) | London (hybrid) (hybrid) |  | 2026-11-11 |
+| hyperexponential | 🆕 [Senior Staff Product Engineer](https://jobs.ashbyhq.com/hyperexponential/9f090d16-8aa7-4e44-be79-11b51bbcffc2) | London (hybrid) (hybrid) |  | 2026-11-11 |
+| 9fin | 🆕 [Senior Product Designer](https://jobs.ashbyhq.com/9fin/fbfb0578-11c7-46bd-b935-33fd1e6db7d0) | London (hybrid) |  | 2026-11-11 |
+| Graphcore | 🆕 [Senior Board Test Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8936033002) | Bristol, UK |  | 2026-11-11 |
+| Financial Times | 🆕 [Senior Product Designer, Editorial Technology](https://job-boards.eu.greenhouse.io/financialtimes33/jobs/5027623101) | London |  | 2026-11-11 |
+| AJ Bell | 🆕 [Senior Infrastructure Engineer](https://jobs.smartrecruiters.com/AJBell1/744000161057440) | Manchester/Hybrid, United Kingdom (hybrid) |  | 2026-11-11 |
+| Optiver | 🆕 [Software Engineer - Digital Assets](https://www.optiver.com/join-us/jobs/8937609002/?gh_jid=8937609002) | London, England, United Kingdom |  | 2026-11-11 |
+| NICE | 🆕 [NOC Engineer / SRE](https://boards.eu.greenhouse.io/nice/jobs/4982447101?gh_jid=4982447101) | United Kingdom - Remote (remote) |  | 2026-11-11 |
 | Capgemini | 🆕 [GenAI Full Stack Engineer - Consultant / Senior Consultant - Digital Excellence](https://careers.capgemini.com/job/London-GenAI-Full-Stack-Engineer-Consultant-Senior-Consultant-Digital-Excellence/1420461633/) | London, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [Senior Full Stack Engineer AI, AIML  - Sheffield, UK](https://careers.capgemini.com/job/Manchester-Senior-Full-Stack-Engineer-AI%2C-AIML-Sheffield%2C-UK/1447515033/) | Manchester, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [Cloud Native Engineer (AWS)](https://careers.capgemini.com/job/Birmingham-Cloud-Native-Engineer-%28AWS%29/1454351433/) | Birmingham, GB |  | 2026-11-11 |
 | Capgemini | 🆕 [Lead AI Test Engineer](https://careers.capgemini.com/job/London-Lead-AI-Test-Engineer/1448064233/) | London, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [Automation Test Engineer - SC Eligible](https://careers.capgemini.com/job/London-Automation-Test-Engineer-SC-Eligible/1440593333/) | London, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [Telco Security Architect](https://careers.capgemini.com/job/London-Telco-Security-Architect/1402911333/) | London, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [ServiceNow Developer](https://careers.capgemini.com/job/London-ServiceNow-Developer/1387819133/) | London, GB |  | 2026-11-11 |
+| Capgemini | 🆕 [AWS Data Solution Architect](https://careers.capgemini.com/job/Birmingham-AWS-Data-Solution-Architect/1388018233/) | Birmingham, GB |  | 2026-11-11 |
+| Capgemini | 🆕 [AI Data Engineer](https://careers.capgemini.com/job/London-AI-Data-Engineer/1387989133/) | London, GB |  | 2026-11-11 |
+| Capgemini | 🆕 [Camunda Developer - Knutsford, UK](https://careers.capgemini.com/job/Manchester-Camunda-Developer-Knutsford%2C-UK/1395955133/) | Manchester, GB |  | 2026-11-11 |
+| Capgemini | 🆕 [Senior AI Software Engineer (Azure)](https://careers.capgemini.com/job/London-Senior-AI-Software-Engineer-%28Azure%29/1441811333/) | London, GB |  | 2026-11-11 |
 | Capgemini | 🆕 [Workplace AI & Copilot Solutions Engineer](https://careers.capgemini.com/job/London-Workplace-AI-&-Copilot-Solutions-Engineer/1449354833/) | London, GB |  | 2026-11-11 |
+| Capgemini | 🆕 [ServiceNow Developer](https://careers.capgemini.com/job/London-ServiceNow-Developer/1387819133/) | London, GB |  | 2026-11-11 |
 | Capgemini | 🆕 [Solution Architect (PLM)](https://careers.capgemini.com/job/London-Solution-Architect-%28PLM%29/1387492533/) | London, GB |  | 2026-11-11 |
 | Capgemini | 🆕 [CCaaS CoE Solution Architect](https://careers.capgemini.com/job/London-CCaaS-CoE-Solution-Architect/1450369033/) | London, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [Senior Test Automation Engineer](https://careers.capgemini.com/job/Glasgow-Senior-Test-Automation-Engineer/1450293633/) | Glasgow, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [AI Data Engineer](https://careers.capgemini.com/job/London-AI-Data-Engineer/1387989133/) | London, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [Senior AI Software Engineer (Azure)](https://careers.capgemini.com/job/London-Senior-AI-Software-Engineer-%28Azure%29/1441811333/) | London, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [Camunda Developer - Knutsford, UK](https://careers.capgemini.com/job/Manchester-Camunda-Developer-Knutsford%2C-UK/1395955133/) | Manchester, GB |  | 2026-11-11 |
+| Capgemini | 🆕 [Telco Security Architect](https://careers.capgemini.com/job/London-Telco-Security-Architect/1402911333/) | London, GB |  | 2026-11-11 |
+| Capgemini | 🆕 [Automation Test Engineer - SC Eligible](https://careers.capgemini.com/job/London-Automation-Test-Engineer-SC-Eligible/1440593333/) | London, GB |  | 2026-11-11 |
 | Capgemini | 🆕 [Microsoft Cloud Native Platform Engineer](https://careers.capgemini.com/job/London-Microsoft-Cloud-Native-Platform-Engineer/1416295633/) | London, GB |  | 2026-11-11 |
-| Capgemini | 🆕 [AWS Data Solution Architect](https://careers.capgemini.com/job/Birmingham-AWS-Data-Solution-Architect/1388018233/) | Birmingham, GB |  | 2026-11-11 |
+| Boston Consulting Group | 🆕 [Global IT Enterprise Architect Director](https://experiencedtalent.bcg.com/careerhub/explore/jobs/790319456361?post_onboarding_pid=790319456361&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom) | London, United Kingdom |  | 2026-11-11 |
+| Hologic | 🆕 [Product Engineer](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11028) | Cambridge, Cambridgeshire, United Kingdom |  | 2026-11-11 |
+| IBM | 🆕 [Lead Solution Architect - Public Sector](https://careers.ibm.com/careers/JobDetail?jobId=142201) | London, GB (hybrid) |  | 2026-11-11 |
+| Akamai Technologies | 🆕 [Principal Software Development Engineer in Test Lead](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4483) | United Kingdom (remote) |  | 2026-11-11 |
+| Amentum | 🆕 [Data Professional (Engineer/Analyst/Scientist)](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/OCONUS-UK-Warrington/Data-Professional--Engineer-Analyst-Scientist-_R0175110) | OCONUS-UK-Warrington (hybrid) |  | 2026-11-11 |
+| Accenture | 🆕 [AI Forward Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Forward-Deployed-Engineer_R00371703) | London |  | 2026-11-11 |
+| Accenture | 🆕 [Forward Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Forward-Deployed-Engineer_R00344052) | London |  | 2026-11-11 |
+| Accenture | 🆕 [Forward Deployed AI Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Forward-Deployed-AI-Engineer_R00339257) | London |  | 2026-11-11 |
+| Accenture | 🆕 [Senior AI/ML Computational Scientist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/senior-AI-ML-Computational-Scientist_R00339306) | London |  | 2026-11-11 |
+| IQVIA | 🆕 [Senior Product Manager](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Senior-Product-Manager_R1573490-2) | London, United Kingdom |  | 2026-11-11 |
+| IQVIA | 🆕 [Product Manager](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Product-Manager_R1573485) | London, United Kingdom |  | 2026-11-11 |
+| GSK | 🆕 [Staff/Director, Forward Deployed Engineer](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Staff-Director--Forward-Deployed-Engineer_450895-1) | UK – London – New Oxford Street (hybrid) |  | 2026-11-11 |
+| GSK | 🆕 [Product Engineer / Designer - Siemens Opcenter](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Hertfordshire---Ware/Product-Engineer---Designer---Siemens-Opcenter_451060-1) | UK - Hertfordshire - Ware (hybrid) |  | 2026-11-11 |
+| GSK | 🆕 [Senior MES Platform Engineer (Manufacturing Execution System)](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Hertfordshire---Ware/Senior-MES-Platform-Engineer--Manufacturing-Execution-System-_451058-1) | UK - Hertfordshire - Ware (hybrid) |  | 2026-11-11 |
+| Global Payments | 🆕 [Developer Support Specialist](https://tsys.wd1.myworkdayjobs.com/TSYS/job/DUBLIN--IRELAND/Developer-Support-Specialist_R0074432) | LEICESTER, , UNITED KINGDOM (hybrid) |  | 2026-11-11 |
+| Unisys | 🆕 [Business Intelligence Analyst](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-United-Kingdom/Business-Intelligence-Analyst_REQ574264) | Remote, United Kingdom (remote) |  | 2026-11-11 |
+| Crowdstrike | 🆕 [Sr. Automation Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Sr-Automation-Engineer--Remote-_R26438) | United Kingdom - London (remote) |  | 2026-11-11 |
+| Feeld | 🆕 [Staff Infrastructure Engineer (AWS)](https://apply.workable.com/j/72116358EB) | London, England, United Kingdom (remote) |  | 2026-11-11 |
 | Netcompany | 🆕 [Copy of Lead DevOps Engineer](https://jobs.smartrecruiters.com/Netcompany1/744000160970125) | London, England, United Kingdom (hybrid) |  | 2026-11-10 |
 | Netcompany | 🆕 [Lead DevOps Engineer](https://jobs.smartrecruiters.com/Netcompany1/744000160971659) | Leeds, England, United Kingdom (hybrid) |  | 2026-11-10 |
 | Esri | 🆕 [GIS Product Engineer II – ArcGIS Maps SDKs for Native Apps](https://www.esri.com/careers/5291752007?gh_jid=5291752007) | Cardiff, UK | GBP 37k-58k | 2026-11-10 |
-| Kaluza | 🆕 [UX Designer TL1 - 1585](https://jobs.ashbyhq.com/kaluza/c3fb5f1b-be27-45a4-907d-834095e28ffe) | Bristol, UK (hybrid) |  | 2026-11-10 |
-| Kaluza | 🆕 [UX Researcher](https://jobs.ashbyhq.com/kaluza/c121b578-dd54-4e49-b72d-7b836c508f14) | Bristol, UK (hybrid) | GBP 75k-95k | 2026-11-10 |
-| Airbnb | 🆕 [Senior Security Engineer, Threat Detection & Response](https://careers.airbnb.com/positions/8374537?gh_jid=8374537) | London, United Kingdom (remote) | GBP 96k-120k | 2026-11-10 |
+| Kaluza | 🆕 [UX Researcher](https://jobs.ashbyhq.com/kaluza/c121b578-dd54-4e49-b72d-7b836c508f14) | Bristol, UK (hybrid) | GBP 60k-75k | 2026-11-10 |
+| Airbnb | 🆕 [Senior Security Engineer, Threat Detection & Incident Response](https://careers.airbnb.com/positions/8374537?gh_jid=8374537) | London, United Kingdom (remote) | GBP 96k-120k | 2026-11-10 |
 | FRP Advisory Group | 🆕 [Data Engineer](https://jobs.smartrecruiters.com/FRPAdvisory/744000160918054) | London, England, United Kingdom (hybrid) |  | 2026-11-10 |
-| Kaluza | 🆕 [Product Manager (CCaaS) - (Fluent French & English)](https://jobs.ashbyhq.com/kaluza/8f730128-5ff4-4ed8-ac64-bef8b730bdd7) | London, UK (hybrid) |  | 2026-11-10 |
 | MSX International | 🆕 [Associate Software Engineer](https://jobs.smartrecruiters.com/MSXInternational/3743990016761326) | Worcester, England, United Kingdom (hybrid) |  | 2026-11-10 |
 | Spotify | 🆕 [Senior Product Manager — Subscriptions (Freemium)](https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a) | London (hybrid) |  | 2026-11-10 |
 | Smart Managed Solutions | 🆕 [Foot Mobile Engineer](https://smartmanagedsolutions-1734694596.teamtailor.com/jobs/8699038-foot-mobile-engineer) | London, United Kingdom (onsite) |  | 2026-11-10 |
@@ -43,7 +88,6 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Medpace, Inc. | 🆕 [AI Engineer](https://careers.medpace.com/jobs/13028) | London, United Kingdom |  | 2026-11-10 |
 | Medpace, Inc. | 🆕 [AI Engineering Intern (12 months)](https://careers.medpace.com/jobs/12863) | London, United Kingdom |  | 2026-11-10 |
 | Matillion | 🆕 [Computer Science Industrial Placement – Software Engineering with AI](https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22) | Manchester (onsite) |  | 2026-11-10 |
-| Carwow | 🆕 [Senior Product Manager](https://jobs.ashbyhq.com/carwow/80bce0bb-db3c-4977-82db-aa8bdcd24342) | London |  | 2026-11-10 |
 | Snyk | 🆕 [Senior Software Engineer](https://jobs.ashbyhq.com/Snyk/4f713b3d-469f-47fe-97f3-6ad6a93a84f8) | United Kingdom - London Office (onsite) |  | 2026-11-10 |
 | Addepar | 🆕 [Portfolio Data Analyst Intern - Summer 2027](https://job-boards.greenhouse.io/addepar1/jobs/8910310002) | Edinburgh, UK |  | 2026-11-10 |
 | Addepar | 🆕 [Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/addepar1/jobs/8927507002) | Edinburgh, UK |  | 2026-11-10 |
@@ -57,61 +101,52 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | M-KOPA | 🆕 [Senior Backend Engineer II & III (.NET)](https://jobs.ashbyhq.com/M-KOPA/6595a622-4405-4c22-9c98-f07e3874a17c) | London (remote) |  | 2026-11-10 |
 | OpenAI | 🆕 [Applied AI Engineering Manager, Startups \| Core](https://jobs.ashbyhq.com/openai/ceca6916-b8d8-42cc-a32a-c27e06744b31) | London, UK (hybrid) |  | 2026-11-10 |
 | Dotmatics | 🆕 [DevOps Engineer \| Luma](https://www.dotmatics.com/jobs/apply?gh_jid=4753014005) | Remote - United Kingdom (remote) |  | 2026-11-10 |
-| Capgemini | 🆕 [AWS API Engineer / Data Architect](https://careers.capgemini.com/job/Birmingham-AWS-API-Engineer-Data-Architect/1391383533/) | Birmingham, GB |  | 2026-11-10 |
 | Capgemini | 🆕 [Power Platform Architect - Managing Consultant](https://careers.capgemini.com/job/Manchester-Power-Platform-Architect-Managing-Consultant/1409486433/) | Manchester, GB |  | 2026-11-10 |
-| Capgemini | 🆕 [Forward Deployed Engineer AI-Managing Consultant-AI and Digital Factory](https://careers.capgemini.com/job/London-Forward-Deployed-Engineer-AI-Managing-Consultant-AI-and-Digital-Factory/1442945233/) | London, GB |  | 2026-11-10 |
-| Capgemini | 🆕 [DevOps Engineer](https://careers.capgemini.com/job/Manchester-DevOps-Engineer/1435255533/) | Manchester, GB |  | 2026-11-10 |
-| Anduril Industries | 🆕 [Product Quality Engineer - Field Operations](https://boards.greenhouse.io/andurilindustries/jobs/5286928007?gh_jid=5286928007) | Sydney, New South Wales, Australia |  | 2026-11-10 |
-| Acturis | 🆕 [Graduate Web Developer, London, 2026](https://careers.acturis.com/o/graduate-web-developer-london-2026) | London, England, United Kingdom (hybrid) |  | 2026-11-10 |
-| Amentum | 🆕 [Data Professional (Engineer/Analyst/Scientist)](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/UK-Cardiff/Data-Professional--Engineer-Analyst-Scientist-_R0174946) | UK-Cardiff (hybrid) |  | 2026-11-10 |
-| ABB | 🆕 [Electronics Embedded Software Engineer](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Saint-Neots-Cambridgeshire-United-Kingdom/Electronics-Embedded-Software-Engineer_JR00050786) | Saint Neots, Cambridgeshire, United Kingdom |  | 2026-11-10 |
-| GSK | 🆕 [Senior Product Manager, AIML](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/Senior-Product-Manager--AIML_450353-1) | London The Stanley Building (hybrid) |  | 2026-11-10 |
-| Bupa | 🆕 [Lead Cloud Platform Engineer](https://bupa.wd3.myworkdayjobs.com/EXT_CAREER/job/Staines/Lead-Cloud-Platform-Engineer_R1222419-1) | Angel Court, London |  | 2026-11-10 |
-| Global Payments | 🆕 [Senior Software Engineer – Agentic Commerce - (London)](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Senior-Software-Engineer---Agentic-Commerce----London-_R0076186) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-11-10 |
-| Global Payments | 🆕 [Senior UX Designer, Payouts](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Senior-UX-Designer--Payouts_R0076621-1) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-11-10 |
-| Crowdstrike | 🆕 [Sr. Data Scientist - Gen AI (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Data-Scientist---Gen-AI--Remote-_R29878) | United Kingdom - Remote (remote) |  | 2026-11-10 |
-| Workday | 🆕 [Senior Enterprise Architect](https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Senior-Enterprise-Architect_JR-0111315) | United Kingdom, London (hybrid) |  | 2026-11-10 |
-| Accenture | 🆕 [Principal Software Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Principal-Software-Engineer_R00362031) | Manchester |  | 2026-11-10 |
-| Accenture | 🆕 [Quality Automation Engineer - Manchester](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Quality-Automation-Engineer---Manchester_R00362058) | Manchester |  | 2026-11-10 |
-| Accenture | 🆕 [Palantir Forward Deployed Engineer - Associate Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Palantir-Forward-Deployed-Engineer---Associate-Director_R00371108) | London (hybrid) |  | 2026-11-10 |
-| PEOPLECERT | 🆕 [Product Manager PRINCE2](https://apply.workable.com/j/CCB78C395E) | United Kingdom (remote) |  | 2026-11-10 |
-| proSapient | 🆕 [Senior Data Engineer](https://apply.workable.com/j/7034D65859) | United Kingdom (remote) |  | 2026-11-10 |
-| OpenAI | 🆕 [Full-Stack Software Engineer, Child Safety Tools & Systems (London)](https://jobs.ashbyhq.com/openai/8ddb799f-f0c7-4df8-9665-5016a1f39da3) | London, UK (hybrid) | USD 266k-445k | 2026-11-09 |
-| Netcompany | 🆕 [Database Developer - Cache/Iris  - 4 month contract](https://jobs.smartrecruiters.com/Netcompany1/744000160738468) | London, England, United Kingdom (hybrid) |  | 2026-11-09 |
-| Netcompany | 🆕 [Data Engineer](https://jobs.smartrecruiters.com/Netcompany1/744000160737189) | Leeds, England, United Kingdom (hybrid) |  | 2026-11-09 |
-| Netcompany | 🆕 [Senior Data Analyst](https://jobs.smartrecruiters.com/Netcompany1/744000160736489) | London, England, United Kingdom (hybrid) |  | 2026-11-09 |
-| Netcompany | 🆕 [Senior Data Engineer](https://jobs.smartrecruiters.com/Netcompany1/744000160735679) | Leeds, England, United Kingdom (hybrid) |  | 2026-11-09 |
-| Cursor | 🆕 [Solutions Architect - Western Europe](https://jobs.ashbyhq.com/cursor/e7fc78cd-a4b9-468e-b286-e20cf3728d45) | London (hybrid) |  | 2026-11-09 |
-| Cursor | 🆕 [Forward Deployed Engineer, Western Europe](https://jobs.ashbyhq.com/cursor/c4afc6fd-b8c8-413f-9010-0000323304aa) | London (remote) |  | 2026-11-09 |
-| Relay Technologies | 🆕 [Senior Data Scientist, Personalisation](https://jobs.ashbyhq.com/relay/1ad71c63-9e1f-4594-a42e-627894b38e05) | London - Hybrid (hybrid) |  | 2026-11-09 |
-| Relay Technologies | 🆕 [Principal Machine Learning Scientist, Recommender Systems](https://jobs.ashbyhq.com/relay/bff877f6-735d-497a-b9c8-d34a8ff3c238) | London - Hybrid (hybrid) |  | 2026-11-09 |
-| Grafana Labs | 🆕 [Senior Product Manager, App o11y \| UK \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6253296004) | United Kingdom (Remote) (remote) | GBP 95k-113k | 2026-11-09 |
-| Kaluza | 🆕 [Senior Software Engineering Manager (Global Billing, Payments & API )](https://jobs.ashbyhq.com/kaluza/83c4b3a0-c4b3-4c1e-ad1c-bb7fffecf9f3) | London (onsite) | GBP 100k-125k | 2026-11-09 |
-| Kernel | 🆕 [Technical Product Manager](https://jobs.ashbyhq.com/kernel/b3cc3b9e-f278-4fd0-a677-1e75199f84d5) | London (onsite) | GBP 110k-145k | 2026-11-09 |
-| 9fin | 🆕 [Senior AI Engineer - Legal AI](https://jobs.ashbyhq.com/9fin/01140ffd-b8fe-4933-8d80-af96c6db5cdf) | London |  | 2026-11-09 |
-| 9fin | 🆕 [Senior AI Engineer](https://jobs.ashbyhq.com/9fin/f19f80c7-fadb-4e77-9087-6ab15a8de8bf) | London |  | 2026-11-09 |
-| Codal | 🆕 [Full Stack Engineer](http://codal.jobs?gh_jid=5475325008) | Lincoln, England, United Kingdom |  | 2026-11-09 |
-| Relay Technologies | 🆕 [Senior Data Scientist, Experimentation](https://jobs.ashbyhq.com/relay/5fdd2229-8784-4f38-86d6-199f121fee82) | London - Hybrid (hybrid) |  | 2026-11-09 |
-| Contentful | 🆕 [Demo Software Engineer (f/m/d)](https://job-boards.greenhouse.io/contentful/jobs/8356240) | London, UK |  | 2026-11-09 |
-| Fleetcraft | 🆕 [Software Engineer](https://jobs.ashbyhq.com/Fleetcraft/57c37ba4-2e25-48fd-b0f0-3744b05a2490) | London (onsite) | GBP 90k-120k | 2026-11-09 |
-| Experian | 🆕 [Data Scientist – GenAI & AI Engineering-4 month secondment](https://jobs.smartrecruiters.com/Experian/744000160591425) | London, United Kingdom (onsite) |  | 2026-11-09 |
-| Experian | 🆕 [Lead Data Platform Engineer - AWS, Spark](https://jobs.smartrecruiters.com/Experian/744000160590005) | Nottingham, United Kingdom (hybrid) |  | 2026-11-09 |
-| Experian | 🆕 [Senior Data Platform Engineer AWS, Spark](https://jobs.smartrecruiters.com/Experian/744000160591149) | Nottingham, United Kingdom (hybrid) |  | 2026-11-09 |
-| AJ Bell | 🆕 [Software Engineer (GenAI)](https://jobs.smartrecruiters.com/AJBell1/744000160585884) | Manchester, England, United Kingdom (hybrid) |  | 2026-11-09 |
-| Push Gaming | 🆕 [Java Engineer, mid-level](https://pushgaming.teamtailor.com/jobs/8689093-java-engineer-mid-level) | London, United Kingdom (hybrid) |  | 2026-11-09 |
-| hyperexponential | 🆕 [Staff Platform Engineer](https://jobs.ashbyhq.com/hyperexponential/4dab1e0c-f6a0-47f1-9b1b-f21d44445bbc) | London (hybrid) (hybrid) |  | 2026-11-09 |
-| hyperexponential | 🆕 [Senior Staff Product Engineer](https://jobs.ashbyhq.com/hyperexponential/dc23bee0-d0ad-4205-b758-05fee034fa94) | London (hybrid) (hybrid) |  | 2026-11-09 |
-| ALTEN | 🆕 [C++ Software Engineer](https://jobs.smartrecruiters.com/ALTEN/744000160580744) | Glasgow, Scotland, United Kingdom (hybrid) |  | 2026-11-09 |
-| Smarkets | 🆕 [Data Engineer](https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8) | London (hybrid) |  | 2026-11-09 |
-| Supercell | 🆕 [Senior AI Engineer, Engine Reliability](https://jobs.ashbyhq.com/supercell/8f5edcd8-a83e-48ef-88e9-039eba950361) | London (onsite) |  | 2026-11-09 |
+| Anduril Industries | [Product Quality Engineer - Field Operations](https://boards.greenhouse.io/andurilindustries/jobs/5286928007?gh_jid=5286928007) | Sydney, New South Wales, Australia |  | 2026-11-10 |
+| Acturis | [Graduate Web Developer, London, 2026](https://careers.acturis.com/o/graduate-web-developer-london-2026) | London, England, United Kingdom (hybrid) |  | 2026-11-10 |
+| ABB | [Electronics Embedded Software Engineer](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Saint-Neots-Cambridgeshire-United-Kingdom/Electronics-Embedded-Software-Engineer_JR00050786) | Saint Neots, Cambridgeshire, United Kingdom |  | 2026-11-10 |
+| GSK | [Senior Product Manager, AIML](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/Senior-Product-Manager--AIML_450353-1) | London The Stanley Building (hybrid) |  | 2026-11-10 |
+| Bupa | [Lead Cloud Platform Engineer](https://bupa.wd3.myworkdayjobs.com/EXT_CAREER/job/Staines/Lead-Cloud-Platform-Engineer_R1222419-1) | Angel Court, London |  | 2026-11-10 |
+| Global Payments | [Senior UX Designer, Payouts (6 Months Fixed Term)](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Senior-UX-Designer--Payouts_R0076621-1) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-11-10 |
+| Global Payments | [Senior Software Engineer – Agentic Commerce - (London)](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Senior-Software-Engineer---Agentic-Commerce----London-_R0076186) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-11-10 |
+| Crowdstrike | [Sr. Data Scientist - Gen AI (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Data-Scientist---Gen-AI--Remote-_R29878) | United Kingdom - Remote (remote) |  | 2026-11-10 |
+| Workday | [Senior Enterprise Architect](https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Senior-Enterprise-Architect_JR-0111315) | United Kingdom, London (hybrid) |  | 2026-11-10 |
+| PEOPLECERT | [Product Manager PRINCE2](https://apply.workable.com/j/CCB78C395E) | United Kingdom (remote) |  | 2026-11-10 |
+| proSapient | [Senior Data Engineer](https://apply.workable.com/j/7034D65859) | United Kingdom (remote) |  | 2026-11-10 |
+| OpenAI | [Full-Stack Software Engineer, Child Safety Tools & Systems (London)](https://jobs.ashbyhq.com/openai/8ddb799f-f0c7-4df8-9665-5016a1f39da3) | London, UK (hybrid) | USD 266k-445k | 2026-11-09 |
+| Netcompany | [Database Developer - Cache/Iris  - 4 month contract](https://jobs.smartrecruiters.com/Netcompany1/744000160738468) | London, England, United Kingdom (hybrid) |  | 2026-11-09 |
+| Netcompany | [Data Engineer](https://jobs.smartrecruiters.com/Netcompany1/744000160737189) | Leeds, England, United Kingdom (hybrid) |  | 2026-11-09 |
+| Netcompany | [Senior Data Analyst](https://jobs.smartrecruiters.com/Netcompany1/744000160736489) | London, England, United Kingdom (hybrid) |  | 2026-11-09 |
+| Netcompany | [Senior Data Engineer](https://jobs.smartrecruiters.com/Netcompany1/744000160735679) | Leeds, England, United Kingdom (hybrid) |  | 2026-11-09 |
+| Cursor | [Solutions Architect - Western Europe](https://jobs.ashbyhq.com/cursor/e7fc78cd-a4b9-468e-b286-e20cf3728d45) | London (hybrid) |  | 2026-11-09 |
+| Cursor | [Forward Deployed Engineer, Western Europe](https://jobs.ashbyhq.com/cursor/c4afc6fd-b8c8-413f-9010-0000323304aa) | London (remote) |  | 2026-11-09 |
+| Relay Technologies | [Senior Data Scientist, Personalisation](https://jobs.ashbyhq.com/relay/1ad71c63-9e1f-4594-a42e-627894b38e05) | London - Hybrid (hybrid) |  | 2026-11-09 |
+| Relay Technologies | [Principal Machine Learning Scientist, Recommender Systems](https://jobs.ashbyhq.com/relay/bff877f6-735d-497a-b9c8-d34a8ff3c238) | London - Hybrid (hybrid) |  | 2026-11-09 |
+| Grafana Labs | [Senior Product Manager, App o11y \| UK \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6253296004) | United Kingdom (Remote) (remote) | GBP 95k-113k | 2026-11-09 |
+| Kaluza | [Senior Software Engineering Manager (Global Billing, Payments & API )](https://jobs.ashbyhq.com/kaluza/83c4b3a0-c4b3-4c1e-ad1c-bb7fffecf9f3) | London (onsite) | GBP 100k-125k | 2026-11-09 |
+| Kernel | [Technical Product Manager](https://jobs.ashbyhq.com/kernel/b3cc3b9e-f278-4fd0-a677-1e75199f84d5) | London (onsite) | GBP 110k-145k | 2026-11-09 |
+| 9fin | [Senior AI Engineer](https://jobs.ashbyhq.com/9fin/f19f80c7-fadb-4e77-9087-6ab15a8de8bf) | London |  | 2026-11-09 |
+| Codal | [Full Stack Engineer](http://codal.jobs?gh_jid=5475325008) | Lincoln, England, United Kingdom |  | 2026-11-09 |
+| Relay Technologies | [Senior Data Scientist, Experimentation](https://jobs.ashbyhq.com/relay/5fdd2229-8784-4f38-86d6-199f121fee82) | London - Hybrid (hybrid) |  | 2026-11-09 |
+| Contentful | [Demo Software Engineer (f/m/d)](https://job-boards.greenhouse.io/contentful/jobs/8356240) | London, UK |  | 2026-11-09 |
+| Fleetcraft | [Software Engineer](https://jobs.ashbyhq.com/Fleetcraft/57c37ba4-2e25-48fd-b0f0-3744b05a2490) | London (onsite) | GBP 90k-120k | 2026-11-09 |
+| Experian | [Data Scientist – GenAI & AI Engineering-4 month secondment](https://jobs.smartrecruiters.com/Experian/744000160591425) | London, United Kingdom (onsite) |  | 2026-11-09 |
+| Experian | [Lead Data Platform Engineer - AWS, Spark](https://jobs.smartrecruiters.com/Experian/744000160590005) | Nottingham, United Kingdom (hybrid) |  | 2026-11-09 |
+| Experian | [Senior Data Platform Engineer AWS, Spark](https://jobs.smartrecruiters.com/Experian/744000160591149) | Nottingham, United Kingdom (hybrid) |  | 2026-11-09 |
+| AJ Bell | [Software Engineer (GenAI)](https://jobs.smartrecruiters.com/AJBell1/744000160585884) | Manchester, England, United Kingdom (hybrid) |  | 2026-11-09 |
+| Push Gaming | [Java Engineer, mid-level](https://pushgaming.teamtailor.com/jobs/8689093-java-engineer-mid-level) | London, United Kingdom (hybrid) |  | 2026-11-09 |
+| hyperexponential | [Staff Platform Engineer](https://jobs.ashbyhq.com/hyperexponential/4dab1e0c-f6a0-47f1-9b1b-f21d44445bbc) | London (hybrid) (hybrid) |  | 2026-11-09 |
+| ALTEN | [C++ Software Engineer](https://jobs.smartrecruiters.com/ALTEN/744000160580744) | Glasgow, Scotland, United Kingdom (hybrid) |  | 2026-11-09 |
+| Smarkets | [Data Engineer](https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8) | London (hybrid) |  | 2026-11-09 |
+| Supercell | [Senior AI Engineer, Engine Reliability](https://jobs.ashbyhq.com/supercell/8f5edcd8-a83e-48ef-88e9-039eba950361) | London (onsite) |  | 2026-11-09 |
 | dunnhumby | [Senior Applied Data Scientist](https://job-boards.greenhouse.io/dunnhumby/jobs/8198773003) | London |  | 2026-11-09 |
+| Capgemini | [Software Engineer](https://careers.capgemini.com/job/Manchester-Software-Engineer/1442326633/) | Manchester, GB |  | 2026-11-09 |
+| Capgemini | [Snowflake Developer](https://careers.capgemini.com/job/London-Snowflake-Developer/1452127733/) | London, GB |  | 2026-11-09 |
 | Capgemini | [AI Engineering Consultant / Senior Consultant](https://careers.capgemini.com/job/London-AI-Engineering-Consultant-Senior-Consultant/1277109101/) | London, GB |  | 2026-11-09 |
+| Capgemini | [Cloud and Platform Engineer-Consultant-AI and Digital Factory](https://careers.capgemini.com/job/London-Cloud-and-Platform-Engineer-Consultant-AI-and-Digital-Factory/1441527533/) | London, GB |  | 2026-11-09 |
 | Capgemini | [frog - Consultant/Senior Consultant - Data Science (Customer Data)](https://careers.capgemini.com/job/London-frog-ConsultantSenior-Consultant-Data-Science-%28Customer-Data%29/1276470301/) | London, GB |  | 2026-11-09 |
 | Capgemini | [frog -Managing Consultant  -  Data Science (Customer Data)](https://careers.capgemini.com/job/London-frog-Managing-Consultant-Data-Science-%28Customer-Data%29/1276886801/) | London, GB |  | 2026-11-09 |
-| Capgemini | [Snowflake Developer](https://careers.capgemini.com/job/London-Snowflake-Developer/1452127733/) | London, GB |  | 2026-11-09 |
-| Capgemini | [.Net Developer -Manchester](https://careers.capgemini.com/job/Manchester-_Net-Developer-Manchester/1442326633/) | Manchester, GB |  | 2026-11-09 |
 | Capgemini | [Enterprise Architect](https://careers.capgemini.com/job/London-Enterprise-Architect/1394896833/) | London, GB |  | 2026-11-09 |
-| Capgemini | [Cloud and Platform Engineer-Consultant-AI and Digital Factory](https://careers.capgemini.com/job/London-Cloud-and-Platform-Engineer-Consultant-AI-and-Digital-Factory/1441527533/) | London, GB |  | 2026-11-09 |
 | Hypervolt Limited | [Product Manager, Flexibility](https://ats.rippling.com/hypervolt/jobs/d4c9f432-18cb-4b18-9ec2-eb9b0e267bff) | London, United Kingdom (onsite) |  | 2026-11-09 |
 | IBM | [Solution Architect](https://careers.ibm.com/careers/JobDetail?jobId=140962) | London, GB (hybrid) |  | 2026-11-09 |
 | Cummins | [Placement Student - Aftertreatment Integration Test Engineering](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434245) | Darlington, County Durham, United Kingdom |  | 2026-11-09 |
@@ -125,14 +160,11 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Kpler | [Machine Learning Engineering Manager (Power)](https://jobs.lever.co/kpler/d0b15eec-6865-4e5a-9d73-a20ef069bf8e) | United Kingdom (hybrid) |  | 2026-11-08 |
 | Axle Energy | [Data Science](https://jobs.ashbyhq.com/axle-careers/814d613f-e159-4c44-aeb7-306e63db52a1) | London (hybrid) | GBP 75k-200k | 2026-11-08 |
 | Axle Energy | [Software Engineer](https://jobs.ashbyhq.com/axle-careers/e7f4e244-e96f-4767-b6ff-3eb9bd5eb0a9) | London (hybrid) | GBP 75k-200k | 2026-11-08 |
-| Capgemini | [Platform Engineer](https://careers.capgemini.com/job/London-Platform-Engineer/1285831001/) | London, GB |  | 2026-11-08 |
 | Capgemini | [RPA NiCE Developer](https://careers.capgemini.com/job/London-RPA-NiCE-Developer/1447460833/) | London, GB |  | 2026-11-08 |
-| Capgemini | [Technical Solution Architect](https://careers.capgemini.com/job/London-Technical-Solution-Architect/1439994133/) | London, GB |  | 2026-11-08 |
+| Capgemini | [Platform Engineer](https://careers.capgemini.com/job/London-Platform-Engineer/1285831001/) | London, GB |  | 2026-11-08 |
 | Capgemini | [DevOps AI Platform Architecture - London, UK](https://careers.capgemini.com/job/London-DevOps-AI-Platform-Architecture-London%2C-UK/1412418533/) | London, GB |  | 2026-11-08 |
-| Capgemini | [Senior Product & Systems Engineering Consultant - Transformation](https://careers.capgemini.com/job/London-Senior-Product-&-Systems-Engineering-Consultant-Transformation/1432861333/) | London, GB |  | 2026-11-08 |
 | Plum Fintech | [Staff AI Engineer](https://apply.workable.com/j/101E7D62A8) | London, England, United Kingdom |  | 2026-11-08 |
 | BT Group | [Enterprise Architect](https://jobs.bt.com/BT/job/London-Enterprise-Architect-E1-8EP/1374216057/) | London, GB |  | 2026-11-07 |
-| Capgemini | [Security Analyst](https://careers.capgemini.com/job/Birmingham-Security-Analyst/1440169133/) | Birmingham, GB |  | 2026-11-07 |
 | Capgemini | [Java Full Stack Engineer-Senior Consultant-Digital Excellence](https://careers.capgemini.com/job/London-Java-Full-Stack-Engineer-Senior-Consultant-Digital-Excellence/1277755001/) | London, GB |  | 2026-11-07 |
 | 8th Light | [Principal Software Engineer (Hybrid)](https://job-boards.greenhouse.io/8thlightrebuild/jobs/8198301003) | London, England, United Kingdom (hybrid) | GBP 93k-116k | 2026-11-06 |
 | 8th Light | [Lead Software Engineer (Hybrid)](https://job-boards.greenhouse.io/8thlightrebuild/jobs/8198296003) | London, England, United Kingdom (hybrid) | GBP 76k-95k | 2026-11-06 |
@@ -146,7 +178,6 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Sportradar | [Data Analyst, Revenue Protection (Investigations)](https://jobs.smartrecruiters.com/Sportradar/744000160238119) | London, United Kingdom (onsite) |  | 2026-11-06 |
 | Helsing | [AI Research Engineer - Robotics](https://helsing.ai/jobs/5028848101?gh_jid=5028848101) | Barcelona; London |  | 2026-11-06 |
 | Helsing | [AI Research Engineer - Reinforcement Learning](https://helsing.ai/jobs/5028731101?gh_jid=5028731101) | Munich - Berlin - London - Paris |  | 2026-11-06 |
-| Helsing | [Staff AI Research Engineer -  Computer Vision](https://helsing.ai/jobs/5028703101?gh_jid=5028703101) | Munich - Berlin - London - Paris |  | 2026-11-06 |
 | Helsing | [Staff AI Research Engineer -  3D Computer Vision](https://helsing.ai/jobs/5028718101?gh_jid=5028718101) | Munich - Berlin - London - Paris |  | 2026-11-06 |
 | Helsing | [AI Research Engineer - ML & Signal Processing](https://helsing.ai/jobs/5028719101?gh_jid=5028719101) | Munich - Berlin - London - Paris |  | 2026-11-06 |
 | Kernel | [Product Manager](https://jobs.ashbyhq.com/kernel/48b4b10c-fe7e-4d5b-8b28-92d74172c5ac) | London (onsite) | GBP 90k-110k | 2026-11-06 |
@@ -179,18 +210,14 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Anduril Industries | [Product Support Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5286595007?gh_jid=5286595007) | Perth, Western Australia, Australia; Sydney, New South Wales |  | 2026-11-05 |
 | Palantir Technologies | [Software Engineer, Internship - Sovereign AI Systems](https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e) | London, United Kingdom (onsite) |  | 2026-11-05 |
 | PhysicsX | [AI Engineer: Post-Training](https://job-boards.eu.greenhouse.io/physicsx/jobs/5029174101) | London |  | 2026-11-05 |
-| hyperexponential | [Staff Product Engineer](https://jobs.ashbyhq.com/hyperexponential/54f542a0-a999-483e-8dcd-6578336f3ac9) | London (hybrid) (hybrid) |  | 2026-11-05 |
-| hyperexponential | [Senior Product Engineer](https://jobs.ashbyhq.com/hyperexponential/014509ea-52c0-4a27-b1ca-51a4ea057333) | London (hybrid) (hybrid) |  | 2026-11-05 |
 | Lawhive | [Senior Data Engineer](https://jobs.ashbyhq.com/lawhive/1d028f8c-cd32-4ae2-848a-727e10d7759f) | London (hybrid) | GBP 90k-130k | 2026-11-05 |
 | Footasylum | [Apparel Product Developer](https://footasylum.teamtailor.com/jobs/8674299-apparel-product-developer) | Rochdale, United Kingdom (onsite) |  | 2026-11-05 |
-| hyperexponential | [Product Engineer](https://jobs.ashbyhq.com/hyperexponential/8dfb4d21-3f5f-47eb-988d-45e3fb49581f) | London (hybrid) (hybrid) |  | 2026-11-05 |
 | Nebius | [Senior/Staff Evaluation Data Analyst (Agentic Search)](https://careers.nebius.com/?gh_jid=5027907101) | London, United Kingdom |  | 2026-11-05 |
 | Qube Research & Technologies | [Quantitative Developer - Execution](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8932115002) | London |  | 2026-11-05 |
 | Securitas | [Fire and Security - Remote Support Engineer](https://jobs.smartrecruiters.com/Securitas/744000159835159) | Milton Keynes, England, United Kingdom (remote) |  | 2026-11-05 |
 | Carwow | [Staff Product Designer](https://jobs.ashbyhq.com/carwow/438e6ecd-aa2c-42a9-8c6a-724ffd7e3ad4) | London (hybrid) |  | 2026-11-05 |
 | CircuitHub | [Software Engineer, Operations Research](https://jobs.ashbyhq.com/circuithub/05338831-de2e-4844-ae19-c57de2c91672) | London, UK (remote) | GBP 80k-125k | 2026-11-05 |
 | Qube Research & Technologies | [C++ Quantitative Developer - ETF Market Making](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8931696002) | London |  | 2026-11-05 |
-| Procentia | [Cloud Platform Engineer (x2)](https://procentia.teamtailor.com/jobs/8670429-cloud-platform-engineer-x2) | Bristol, United Kingdom (hybrid) |  | 2026-11-05 |
 | Funding Circle | [Data Engineering Manager (Data Platform)](https://jobs.ashbyhq.com/fundingcircle/0b3a20ff-ab72-4248-b403-e514cd86aceb) | London (hybrid) |  | 2026-11-05 |
 | Financial Times | [Product Manager](https://job-boards.eu.greenhouse.io/financialtimes33/jobs/5027652101) | London |  | 2026-11-05 |
 | Cloudflare | [Senior Software Engineer - ZTC](https://boards.greenhouse.io/cloudflare/jobs/8346149?gh_jid=8346149) | London, United Kingdom (onsite) | EUR 66k-83k | 2026-11-05 |
@@ -202,11 +229,9 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | AstraZeneca | [Associate Principal AI Engineer - Mathematical Optimisation](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Associate-Principal-AI-Engineer---Mathematical-Optimisation_R-263631-2) | UK - Cambridge |  | 2026-11-05 |
 | GSK | [Data Information Model Developer](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Data-Information-Model-Developer_451035-2) | UK – London – New Oxford Street (hybrid) |  | 2026-11-05 |
 | RELX | [Data Analyst II](https://relx.wd3.myworkdayjobs.com/relx/job/United-Kingdom/Data-Analyst-II_R120051-1) | United Kingdom |  | 2026-11-05 |
-| Bupa | [Senior Digital Product Manager](https://bupa.wd3.myworkdayjobs.com/EXT_CAREER/job/Angel-Court-London/Senior-Digital-Product-Manager_R1226398) | Angel Court, London | GBP 80k-90k | 2026-11-05 |
 | Dyson | [Senior Technical Security Architecture, Engineering & Integrations Manager](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/United-Kingdom---Malmesbury-Office/Senior-Technical-Security-Architecture--Engineering---Integrations-Manager_JR38946) | United Kingdom - Malmesbury Office |  | 2026-11-05 |
 | Dyson | [Associate Principal Power Electronics Software Engineer](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/United-Kingdom---Malmesbury-Office/Associate-Principal-Embedded-Software-Engineer_JR37723) | United Kingdom - Malmesbury Office |  | 2026-11-05 |
 | Marcura | [Principal Product Manager - Compliance](https://apply.workable.com/j/0A195C79E3) | London, England, United Kingdom |  | 2026-11-05 |
-| Veramed | [Data Engineer: Clinical Data Configuration Manager](https://veramed.com/job-detail?gh_jid=5028087101) | India; UK - Remote (remote) |  | 2026-11-04 |
 | Genomics England | [Full Stack Software Engineer  (we have office locations in Cambridge, Leeds and London)](https://jobs.smartrecruiters.com/GenomicsEngland/744000159739779) | London, England, United Kingdom (hybrid) |  | 2026-11-04 |
 | Cloudflare | [Senior Software Engineer, AI & Infrastructure Planning](https://boards.greenhouse.io/cloudflare/jobs/8328562?gh_jid=8328562) | London, United Kingdom (hybrid) | EUR 66k-91k | 2026-11-04 |
 | ClearRoute | [Senior Platform Engineer](https://clearroute.teamtailor.com/jobs/8668304-senior-platform-engineer) | London, United Kingdom (hybrid) |  | 2026-11-04 |
@@ -219,6 +244,7 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | DeepL | [Software Engineer \| Identity and Access Management \| Full-Stack](https://jobs.ashbyhq.com/DeepL/0c9d3b11-a6d1-49d5-ac6b-41cb3f6f2a6c) | London (hybrid) |  | 2026-11-04 |
 | Epic Games | [Senior Language Programmer](https://epicgames.com/careers/jobs/6248481004?gh_jid=6248481004) | London,England,United Kingdom |  | 2026-11-04 |
 | Funding Circle | [Senior Data Analyst (12 Month FTC)](https://jobs.ashbyhq.com/fundingcircle/9f36a474-b2ac-43e2-9e5c-ea78fb0e0506) | London (hybrid) |  | 2026-11-04 |
+| Spotify | [Product Designer](https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4) | London (hybrid) |  | 2026-11-04 |
 | Databricks | [AI Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8927179002) | London, United Kingdom (remote) |  | 2026-11-04 |
 | PolyAI | [Staff Product Manager (Runtime Team)](https://job-boards.eu.greenhouse.io/polyai/jobs/5027239101) | London, United Kingdom |  | 2026-11-04 |
 | Neo4j | [Software Engineer – Database Kernel](https://boards.greenhouse.io/neo4j/jobs/4727060006?gh_jid=4727060006) | London |  | 2026-11-04 |
@@ -229,13 +255,10 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Pearson | [Software Engineering Team Manager](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26517) | London, United Kingdom |  | 2026-11-04 |
 | RELX | [Senior IAM Solutions Architect](https://relx.wd3.myworkdayjobs.com/relx/job/Surrey/Senior-IAM-Solutions-Architect_R120265) | UK -London (Strand) |  | 2026-11-04 |
 | Teledyne | [Software Engineer](https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Fareham/Software-Engineer_REQ37195-1) | UK - Fareham |  | 2026-11-04 |
-| Rolls-Royce | [Software/ Hardware Integration Engineer - Submarines](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Derby/Software--Hardware-Integration-Engineer---Submarines_JR6159851-2) | Glasgow |  | 2026-11-04 |
 | Global Payments | [Senior Analytics & Value Engineer](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Senior-Analytics---Value-Engineer_R0076677) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-11-04 |
-| Belmont Lavan Ltd | [Agent Security Engineer](https://apply.workable.com/j/AA2ED69F60) | London, England, United Kingdom |  | 2026-11-04 |
 | Cloudflare | [Senior Product Manager - Zero-Day Protection](https://boards.greenhouse.io/cloudflare/jobs/8346327?gh_jid=8346327) | London, United Kingdom | USD 156k-216k | 2026-11-03 |
 | Genomics England | [Software Engineer - Python & AWS  (we have office locations in Cambridge, Leeds and London)](https://jobs.smartrecruiters.com/GenomicsEngland/744000159465074) | London, England, United Kingdom (hybrid) |  | 2026-11-03 |
 | Sylvera | [Product Manager](https://jobs.ashbyhq.com/sylvera/49f41048-9a35-4455-8c4e-eb8688661509) | London (hybrid) |  | 2026-11-03 |
-| Netcompany | [Azure Solution Architect](https://jobs.smartrecruiters.com/Netcompany1/744000159437669) | Leeds, England, United Kingdom (hybrid) |  | 2026-11-03 |
 | Accurx | [Senior Data Engineer](https://jobs.ashbyhq.com/accurx/a4df2c3f-2ac9-4b8f-bc78-1feb836fbd38) | London (Shoreditch) (hybrid) | GBP 85k-105k | 2026-11-03 |
 | Telefonica Tech | [Senior Cloud Solutions Architect](https://jobs.smartrecruiters.com/TelefonicaTech/744000159411076) | London, England, United Kingdom (remote) |  | 2026-11-03 |
 | Keyrock | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels](https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) | London (onsite) |  | 2026-11-03 |
@@ -243,7 +266,7 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | StarCompliance | [Senior Devops Engineer UK](https://jobs.lever.co/starcompliance/75e421ff-e924-4858-be62-7f03e65a86be) | Remote, United Kingdom (remote) |  | 2026-11-03 |
 | XYZ Reality | [Production Assembly & Test Engineer](https://jobs.ashbyhq.com/xyz-reality/91cbe769-a10c-4585-9f32-c792d1b4840f) | Reading, UK (onsite) |  | 2026-11-03 |
 | Avaloq | [Senior Java Software Engineer](https://jobs.smartrecruiters.com/Avaloq1/744000159381205) | Edinburgh, Scotland, United Kingdom (hybrid) |  | 2026-11-03 |
-| Sanity | [Senior Solutions Architect (German speaking)](https://jobs.ashbyhq.com/sanity/181ccddc-b2dc-4e10-ba24-d1304deee942) | Remote in the UK (remote) |  | 2026-11-03 |
+| Sanity | [Senior Solution Architect (German speaking)](https://jobs.ashbyhq.com/sanity/181ccddc-b2dc-4e10-ba24-d1304deee942) | Remote in the UK (remote) |  | 2026-11-03 |
 | ALTEN | [Senior Real-Time Embedded Software Engineer](https://jobs.smartrecruiters.com/ALTEN/744000159358299) | Reading, England, United Kingdom (hybrid) |  | 2026-11-03 |
 | Cloudflare | [Senior Product Manager, Agentic Search](https://boards.greenhouse.io/cloudflare/jobs/8336559?gh_jid=8336559) | London, United Kingdom (onsite) | USD 172k-215k | 2026-11-03 |
 | Nearform | [Senior DevOps Engineer](https://job-boards.greenhouse.io/nearform/jobs/8178364003) | UK (onsite) |  | 2026-11-03 |
@@ -293,16 +316,15 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Qube Research & Technologies | [Full Stack Developer - HR Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926547002) | London |  | 2026-11-02 |
 | JetBrains | [Head of Data Science and Analytics (JetBrains Air)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4888300101) | Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; L (remote) |  | 2026-11-02 |
 | Pearson | [Manager, Software Engineering (Innovation Engineering)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26030) | London, United Kingdom (hybrid) |  | 2026-11-02 |
+| Accenture | [Software Engineer - Scotland](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Glasgow/Software-Engineer---Scotland_R00325439) | Glasgow |  | 2026-11-02 |
 | NVIDIA | [Senior Solution Architect, Networking Solutions Labs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-Solution-Architect--Networking-Solutions-Labs_JR2029065) | UK, Remote (remote) |  | 2026-11-02 |
 | IQVIA | [RWE Epidemiological Programmer – FSP (Oncology)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Dublin-Ireland/RWE-Epidemiological-Programmer---FSP--Oncology-_R1576326) | London, United Kingdom |  | 2026-11-02 |
 | Leonardo | [Senior C++ Software Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Senior-C---Software-Engineer_R0034009) | GB - Edinburgh | GBP 45k-60k | 2026-11-02 |
 | Bupa | [Group Enterprise Architect](https://bupa.wd3.myworkdayjobs.com/EXT_CAREER/job/Angel-Court-London/Group-Enterprise-Architect_R1500511) | Angel Court, London |  | 2026-11-02 |
-| Accenture | [Software Engineer - Scotland](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Glasgow/Software-Engineer---Scotland_R00325439) | Glasgow |  | 2026-11-02 |
 | Cambridge GaN Devices | [Senior Test Development Engineer](https://apply.workable.com/j/8DBCE9F4D8) | Cambridge, England, United Kingdom |  | 2026-11-02 |
 | Safran Engineering Services UK Limited | [AI Software Engineer - 12m Inside IR35 / Fixed Term](https://apply.workable.com/j/EAF83749F6) | Gloucester, England, United Kingdom |  | 2026-11-02 |
 | Cohere | [Senior Security Engineer](https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd) | London (remote) | CAD 260k-310k | 2026-10-31 |
 | Firstup | [Sr. Software Engineer, Fullstack (UK)](https://jobs.lever.co/firstup/9f32d630-05b5-4828-82d0-d1448582479a) | Hybrid- London, UK (hybrid) |  | 2026-10-30 |
-| Carwow | [Product Manager](https://jobs.ashbyhq.com/carwow/4ba54827-00be-449b-84d7-ddb62946ff86) | London (hybrid) |  | 2026-10-30 |
 | XYZ Reality | [Senior AI - Computer Vision Engineer - UK](https://jobs.ashbyhq.com/xyz-reality/9af6a340-433d-4bb9-91b2-88a08bf20f7a) | London Office (hybrid) |  | 2026-10-30 |
 | Netcompany | [Software Developer (with QAT experience)](https://jobs.smartrecruiters.com/Netcompany1/744000158777444) | London, England, United Kingdom (onsite) |  | 2026-10-30 |
 | Lupa Pets | [Product Engineer](https://jobs.ashbyhq.com/lupapets/c036770b-6d2f-4060-93ef-73c3135c5cd1) | London (hybrid) |  | 2026-10-30 |
@@ -319,6 +341,7 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Affirm | [Senior Software Engineer, Backend (International Payments)](https://job-boards.greenhouse.io/affirm/jobs/8039805003) | Remote UK (remote) | GBP 120k-168k | 2026-10-30 |
 | ABB | [Drives and PLC Technical and Application Support Engineer](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Warrington-Cheshire-United-Kingdom/Technical-and-Application-Support-Engineer_JR00039710) | Warrington, Cheshire, United Kingdom |  | 2026-10-30 |
 | ABB | [Product Manager](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Coleshill-Warwickshire-United-Kingdom/Product-Manager_JR00043151-1) | Coleshill, Warwickshire, United Kingdom |  | 2026-10-30 |
+| Accenture | [Quality Automation Engineer - Leeds](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Quality-Automation-Engineer---Leeds_R00289257-1) | Leeds |  | 2026-10-30 |
 | Salesforce | [Technical Architect/Senior Technical Architect](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Senior-Technical-Architect_JR362269) | United Kingdom - London |  | 2026-10-30 |
 | Salesforce | [Data Architect, Data Foundation](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Data-Architect--Data-Foundation_JR356934) | United Kingdom - London (remote) |  | 2026-10-30 |
 | Salesforce | [Forward Deployed Engineer - Public Sector](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Forward-Deployed-Engineer---Public-Sector_JR363677) | United Kingdom - London |  | 2026-10-30 |
@@ -329,14 +352,12 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | GSK | [Head of Data and Data Science, R&D, ED&AI](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Head-of-Data-and-Data-Science--R-D--ED-AI_449601-1) | UK – London – New Oxford Street (hybrid) |  | 2026-10-30 |
 | RELX | [Quality Test Engineer III](https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/Quality-Test-Engineer-III_R119676-1) | London Wall |  | 2026-10-30 |
 | Rolls-Royce | [Product Performance Engineer](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Product-Performance-Engineer_JR6161218-2) | Bristol |  | 2026-10-30 |
-| Accenture | [Quality Automation Engineer - Leeds](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Quality-Automation-Engineer---Leeds_R00289257-1) | Leeds |  | 2026-10-30 |
 | Xero | [Engineer - SRE](https://jobs.ashbyhq.com/xero/09fa178b-b997-4f48-ae19-b8a61919cef0) | AU: New South Wales Remote Worker (hybrid) |  | 2026-10-29 |
 | Telnyx | [Infrastructure Engineer, Data](https://job-boards.greenhouse.io/telnyx54/jobs/8085414003) | Warsaw, Poland; Dublin, Ireland; London, UK |  | 2026-10-29 |
 | Niantic Spatial | [3D Computer Vision Research Engineer, Geospatial Visual Localization](https://jobs.ashbyhq.com/niantic-spatial/c1864d09-d969-4b86-87aa-67c2783880a3) | London (hybrid) |  | 2026-10-29 |
 | Kpler | [Senior Data Engineer - Financial Flows](https://jobs.lever.co/kpler/645258a8-e421-4ef9-b466-2d4a4fa303bd) | United Kingdom (hybrid) |  | 2026-10-29 |
 | Mapbox | [Machine Learning Engineer III, Routing Cost](https://jobs.ashbyhq.com/Mapbox/b4a45747-32b2-4187-878e-5e48ccb3c35b) | Mapbox UK (remote) |  | 2026-10-29 |
 | Isembard | [CMM Programmer](https://jobs.ashbyhq.com/isembard/ad2790cb-46c9-409f-8f05-9f36afcdd597) | London (onsite) |  | 2026-10-29 |
-| Isembard | [Computer Vision / ML Engineer](https://jobs.ashbyhq.com/isembard/edd462db-a5f6-48d3-871f-43fe41a4a7ac) | London (onsite) |  | 2026-10-29 |
 | Isembard | [Software Engineer](https://jobs.ashbyhq.com/isembard/a4711746-6c61-4fb5-91ba-4657b19f9373) | London (onsite) |  | 2026-10-29 |
 | Isembard | [CAM Programmer](https://jobs.ashbyhq.com/isembard/2f3a366c-4abf-4a71-a4f7-5dc3f4b36f8c) | London (onsite) |  | 2026-10-29 |
 | Funding Circle | [Technical Lead, Data Platform Engineer](https://jobs.ashbyhq.com/fundingcircle/87e95695-5d06-432b-a564-64a1191005d2) | London (hybrid) |  | 2026-10-29 |
@@ -381,7 +402,7 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Ripple | [Senior Software Engineer (.NET/C#)](https://ripple.com/careers/all-jobs/job/8325881?gh_jid=8325881) | London, UK |  | 2026-10-28 |
 | Roku | [Software Engineer, Agentic AI](https://www.weareroku.com/jobs/8330341?gh_jid=8330341) | Manchester, United Kingdom |  | 2026-10-28 |
 | IBM | [ServiceNow Developer - SC Clearance Required](https://careers.ibm.com/careers/JobDetail?jobId=135604) | Manchester, GB (hybrid) |  | 2026-10-28 |
-| Northumbria University | [Software Engineer](https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4327) | Newcastle City Campus, United Kingdom |  | 2026-10-28 |
+| Accenture | [AI SDLC Forward Deployed Engineer - Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Management-Consultant---Comms--Media--Technology_R00354604) | London |  | 2026-10-28 |
 | NVIDIA | [Senior Developer Relations Manager, Energy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Developer-Relations-Manager--Energy_JR2024527) | UK, Remote (remote) |  | 2026-10-28 |
 | Otis | [Field Test Engineer](https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway/job/Otis-Bristol-Unit-2-Blenhiem-Court-6-Beaufort-Park-Woodlands-Bradley-Stoke-Bristol-BS32-4NE-UK/Senior-Field-Test-Engineer_20141809) | Otis Bristol, Unit 2, Blenhiem Court, 6 Beaufort Park, Woodl (onsite) |  | 2026-10-28 |
 | Medtronic | [Senior Software Quality Engineer](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/London-London-United-Kingdom/Senior-Software-Quality-Engineer_R76999) | London, London, United Kingdom (onsite) |  | 2026-10-28 |
@@ -389,7 +410,6 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | TD Synnex | [Software Engineer - AI Integration - Fixed Term Contract - 12 months](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Liverpool-United-Kingdom/Software-Engineer---AI-Integration---Fixed-Term-Contract---12-months_R57035) | Liverpool, United Kingdom |  | 2026-10-28 |
 | Clearwater Analytics | [Senior Software Development Engineer](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---London/Software-Engineer--Python----Beacon-Core-Engineer_R11703) | Office - London |  | 2026-10-28 |
 | Clearwater Analytics | [Senior Product Manager - Regulatory Reporting](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Frankfurt/Senior-Product-Manager-I---Regulatory-Reporting_PR11891) | Office - London |  | 2026-10-28 |
-| Accenture | [AI SDLC Forward Deployed Engineer - Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Management-Consultant---Comms--Media--Technology_R00354604) | London |  | 2026-10-28 |
 | Javelin Global Commodities | [Summer Intern: Software Engineering](https://apply.workable.com/j/CAF64E75BF) | London, England, United Kingdom |  | 2026-10-28 |
 | Runware | [Senior Product Manager - LLM Inference](https://apply.workable.com/j/1B08F71ECC) | United Kingdom (remote) |  | 2026-10-28 |
 | Keyrock | [Senior Data Engineer](https://jobs.ashbyhq.com/Keyrock/d21747c4-510c-4fd4-ade3-0c9cc1304e53) | London (remote) |  | 2026-10-27 |
@@ -406,7 +426,7 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Veeam Software | [Partner Solution Architect - Data & AI Security](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5012485101) | Remote, United Kingdom (remote) |  | 2026-10-27 |
 | BCN Group | [Azure DevOps Engineer](https://bcngroup.recruitee.com/o/azure-devops-engineer-5) | Manchester, M22 5LW (remote) |  | 2026-10-27 |
 | NVIDIA | [Senior Software Engineer, Cloud Platform](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Software-Engineer--Cloud-Platform_JR2027441) | UK, Remote (remote) |  | 2026-10-27 |
-| Morgan Stanley | [AI Cloud Solution Engineer](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/AI-Cloud-Solution-Engineer_PT-JR045977) | London, United Kingdom |  | 2026-10-27 |
+| Morgan Stanley | [AI Cloud Engineer (API, Python, Infrastructure)](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/AI-Cloud-Solution-Engineer_PT-JR045977) | London, United Kingdom |  | 2026-10-27 |
 | Leonardo | [Test Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Yeovil---Lysander-Rd/Test-Engineer_R0031044) | GB - Bristol - Coldharbour Lane |  | 2026-10-27 |
 | Sonoco | [Automation Engineer](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/GBR---Chesterfield---G031/Automation-Engineer_JR-156950-1) | GBR - Chesterfield - G031 (onsite) |  | 2026-10-27 |
 | Methods Business and Digital Technology | [Cyber Security Architect](https://apply.workable.com/j/9C3E81DD72) | London, England, United Kingdom (remote) |  | 2026-10-27 |
@@ -416,7 +436,6 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Anduril Industries | [Manufacturing Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5275941007?gh_jid=5275941007) | Sydney, New South Wales, Australia |  | 2026-10-26 |
 | Axelera AI | [Senior/Staff AI Application Engineer - Heterogeneous Computing](https://jobs.ashbyhq.com/axelera/1e26c9c9-1aad-40f9-8ec1-7f347a1b40f8) | Hybrid/Remote - Europe (incl. UK) (remote) |  | 2026-10-26 |
 | MSX International | [AI Solutions Architect](https://jobs.smartrecruiters.com/MSXInternational/3743990016406366) | Colchester, England, United Kingdom (hybrid) |  | 2026-10-26 |
-| Databricks | [Senior Forward Deployed Engineer (Technical Data Architect)](https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002) | London, United Kingdom |  | 2026-10-26 |
 | Databricks | [Forward Deployed Engineering Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002) | London, United Kingdom |  | 2026-10-26 |
 | Riverlane | [Senior NetSuite Administrator & Developer](https://www.riverlane.com/jobs?gh_jid=5015941101#vacancies) | Cambridge, UK | GBP 58k-70k | 2026-10-26 |
 | Databricks | [Senior EMEA AI Solutions Architect](https://databricks.com/company/careers/open-positions/job?gh_jid=8895476002) | London, United Kingdom |  | 2026-10-26 |
@@ -490,23 +509,20 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | ALTEN | [Senior AI Engineer (Autonomy & Machine Learning)](https://jobs.smartrecruiters.com/ALTEN/744000157114830) | Bristol, England, United Kingdom (hybrid) |  | 2026-10-22 |
 | Addepar | [Lead Technical Data Analyst](https://job-boards.greenhouse.io/addepar1/jobs/8906625002) | Edinburgh, UK (remote) |  | 2026-10-22 |
 | Spotify | [Data Scientist  - Business Analytics](https://jobs.lever.co/spotify/b4f6cd01-1d5d-41a9-b287-6d10416da03c) | London (onsite) |  | 2026-10-22 |
-| Synthesia | [Product Manager, Interactive Avatars (Staff/Principal-level)](https://jobs.ashbyhq.com/synthesia/e934a7ac-b668-46c0-9953-eed4504658b7) | London (hybrid) |  | 2026-10-22 |
-| NICE | [Senior Solutions Architect](https://boards.eu.greenhouse.io/nice/jobs/5009774101?gh_jid=5009774101) | United Kingdom - Southampton |  | 2026-10-22 |
 | NICE | [Lead Software Architect](https://boards.eu.greenhouse.io/nice/jobs/5003588101?gh_jid=5003588101) | United Kingdom - Southampton |  | 2026-10-22 |
 | Flo Health | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/flohealth/jobs/8039864003) | London | GBP 130k-180k | 2026-10-22 |
+| Accenture | [AI Security Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Security-Architect_R00361104) | London |  | 2026-10-22 |
 | Leonardo | [Test Solution Design Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Test-Solution-Design-Engineer_R0034213) | GB - Edinburgh |  | 2026-10-22 |
 | Global Payments | [Principal Software Engineer](https://tsys.wd1.myworkdayjobs.com/TSYS/job/BELFAST--UNITED-KINGDOM/Principal-Software-Engineer_R0076603) | BELFAST, , UNITED KINGDOM (hybrid) |  | 2026-10-22 |
 | Global Payments | [Lead Product Manager - Partner (ISO & FI) Solutions, SMB Product UK & Ireland](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Lead-Product-Manager---Partner--ISO---FI--Solutions--SMB-Product-UK---Ireland_R0075558) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-10-22 |
 | Global Payments | [Lead Product Manager - Client Solutions, SMB Product UK & Ireland](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Lead-Product-Manager---Client-Solutions--SMB-Product-UK---Ireland_R0075561) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-10-22 |
 | Global Payments | [Lead Product Manager - Online Solutions, SMB Product UK & Ireland (Maternity Cover)](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Lead-Product-Manager---Online-Solutions--SMB-Product-UK---Ireland--Maternity-Cover-_R0075564) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-10-22 |
 | MBDA | [Algorithm Developer (Weapon Systems)](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Algorithm-Developer--Weapon-Systems-_R40042) | Bristol (hybrid) |  | 2026-10-22 |
-| Accenture | [AI Security Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Security-Architect_R00361104) | London |  | 2026-10-22 |
 | ClickView | [CRM Platform Engineer](https://apply.workable.com/j/9CFA10C8EC) | Sydney, New South Wales, Australia |  | 2026-10-22 |
 | Longshot Systems Ltd | [Senior DevOps Engineer](https://apply.workable.com/j/478AB1B2F4) | London, England, United Kingdom |  | 2026-10-22 |
 | OpenAI | [Software Engineer, Privacy Engineering (Lawful Access)](https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3) | London, UK (hybrid) |  | 2026-10-21 |
 | Spotify | [Staff Product Designer - Platform Design](https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae) | London (hybrid) |  | 2026-10-21 |
 | Omnea | [Team Lead Manager - Product Engineer](https://jobs.ashbyhq.com/Omnea/3e2f363a-724f-46c7-bddb-8ada36eeb700) | London (hybrid) | GBP 110k-180k | 2026-10-21 |
-| UiPath | [Principal Software Engineer](https://jobs.ashbyhq.com/uipath/a5bf1340-bb30-49b7-a86a-1f6b69d36c27) | London (onsite) |  | 2026-10-21 |
 | Kaluza | [Product Manager - Agent Experience (Fluency in French & English required)](https://jobs.ashbyhq.com/kaluza/1ce2cdfd-d1ba-49c1-8784-f9f99f26ea69) | London, UK (hybrid) | GBP 47k-59k | 2026-10-21 |
 | ServiceNow | [Forward Deployed Solution Engineer – Applied AI FDE](https://jobs.smartrecruiters.com/ServiceNow/744000156764279) | London, United Kingdom (remote) |  | 2026-10-21 |
 | WGSN | [Director of Data Engineering](https://jobs.lever.co/wgsn/cc1f951e-c834-49f7-b9a3-b6d08d03e220) | London, UK (onsite) |  | 2026-10-21 |
@@ -622,7 +638,7 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Leonardo | [Summer Placement Test Systems Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Test-Systems-Engineer_R0034211) | GB - Edinburgh |  | 2026-10-18 |
 | Woven by Toyota | [Software Engineer - Data Infrastructure](https://jobs.lever.co/woven-by-toyota/43133a01-733c-40b9-88c7-2f0454f62465) | London (hybrid) |  | 2026-10-16 |
 | Turnitin, LLC | [Product Manager, iThenticate (UK Remote)](https://jobs.smartrecruiters.com/TurnitinLLC/744000156050497) | Manchester, England, United Kingdom (remote) |  | 2026-10-16 |
-| Netcompany | [Senior Software Developer- .NET](https://jobs.smartrecruiters.com/Netcompany1/744000155998795) | Leeds, England, United Kingdom (onsite) |  | 2026-10-16 |
+| Netcompany | [Senior Software Developer- .NET](https://jobs.smartrecruiters.com/Netcompany1/744000156002179) | London, England, United Kingdom (hybrid) |  | 2026-10-16 |
 | Qube Research & Technologies | [Senior Security Engineer](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8894736002) | London |  | 2026-10-16 |
 | PagerDuty | [Forward Deployed Engineer (SDEV)](https://job-boards.greenhouse.io/pagerduty/jobs/6217049004) | London |  | 2026-10-16 |
 | Qube Research & Technologies | [Data Scientist - Macro](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8894692002) | London |  | 2026-10-16 |
@@ -636,7 +652,6 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Braze | [Senior Technical Architect](https://job-boards.greenhouse.io/braze/jobs/8264729) | London |  | 2026-10-16 |
 | KnowBe4 | [Information Security Analyst (Remote in the UK)](https://job-boards.greenhouse.io/knowbe4/jobs/8893957002) | Cheltenham, England, United Kingdom (remote) |  | 2026-10-16 |
 | KnowBe4 | [Snr. Information Security Analyst(Remote)](https://job-boards.greenhouse.io/knowbe4/jobs/8893954002) | Cheltenham, England, United Kingdom (remote) |  | 2026-10-16 |
-| XYZ Reality | [Full Stack Engineer](https://jobs.ashbyhq.com/xyz-reality/42120298-cac8-4dc8-b3a9-cddf5df93eb2) | London Office (hybrid) |  | 2026-10-16 |
 | Nebius | [Senior ML Engineer (Agentic Search)](https://careers.nebius.com/?gh_jid=5008613101) | Amsterdam, Netherlands; London, United Kingdom; Remote - Eur (remote) |  | 2026-10-16 |
 | Cloudflare | [Principal Product Manager, Certificate Authority](https://boards.greenhouse.io/cloudflare/jobs/8276299?gh_jid=8276299) | London, United Kingdom (hybrid) |  | 2026-10-16 |
 | Roku | [Senior Software Engineer, Web Development – AI](https://www.weareroku.com/jobs/8284752?gh_jid=8284752) | Manchester, United Kingdom |  | 2026-10-16 |
@@ -644,9 +659,9 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | YLD | [Principal Data Engineer (Data Practice Lead)](https://job-boards.eu.greenhouse.io/yld/jobs/5008325101) | London |  | 2026-10-16 |
 | Airbnb | [Staff Software Engineer - Hosting Services](https://careers.airbnb.com/positions/8281533?gh_jid=8281533) | London, United Kingdom (hybrid) | GBP 120k-150k | 2026-10-16 |
 | Alloy | [Senior Solutions Architect](https://www.alloy.com/about/jobs/detail?gh_jid=8878957002&gh_jid=8878957002) | London, UK |  | 2026-10-16 |
+| Accenture | [Software Engineer - Leeds](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Software-Engineer---Leeds_R00288598) | Leeds |  | 2026-10-16 |
 | Leonardo | [Senior Defence Analytics Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Senior-Defence-Analytics-Engineer_R0032758) | GB - London - Whitehall |  | 2026-10-16 |
 | Bupa | [Lead Cyber Security Engineer - BeyondTrust, CyberArk](https://bupa.wd3.myworkdayjobs.com/EXT_CAREER/job/Angel-Court-London/IAM-Lead-Engineer_R1215795) | Angel Court, London |  | 2026-10-16 |
-| Accenture | [Software Engineer - Leeds](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Software-Engineer---Leeds_R00288598) | Leeds |  | 2026-10-16 |
 | Methods Business and Digital Technology | [Lead Test Engineer (AWS)](https://apply.workable.com/j/D64360264C) | London, England, United Kingdom |  | 2026-10-16 |
 | Anduril Industries | [Senior Software Product Manager](https://boards.greenhouse.io/andurilindustries/jobs/5267096007?gh_jid=5267096007) | Sydney, New South Wales, Australia |  | 2026-10-15 |
 | Beam | [Principal Product Engineer](https://jobs.ashbyhq.com/beam-up/bade4ce5-b8fe-45d2-b79d-ee5961512ca7) | London (hybrid) | GBP 180k-250k | 2026-10-15 |
@@ -684,7 +699,6 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Boston Consulting Group | [Global IT Enterprise Architect Expert Senior Director - Integrations GenAI](https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318944164?post_onboarding_pid=790318944164&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom) | London, United Kingdom |  | 2026-10-14 |
 | NVIDIA | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) | UK, Bristol |  | 2026-10-14 |
 | Morgan Stanley | [Full-Stack Software Engineer](https://ms.wd5.myworkdayjobs.com/External/job/Glasgow-United-Kingdom/Full-Stack-Data-Engineer_PT-JR043466) | Glasgow, United Kingdom |  | 2026-10-14 |
-| Morgan Stanley | [Developer (Python)](https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Developer--Python-_PT-JR043526) | London, United Kingdom |  | 2026-10-14 |
 | Medtronic | [Senior Software Development Engineer in Test](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/London-London-United-Kingdom/Senior-Software-Development-Engineer-in-Test_R79483-1) | London, London, United Kingdom |  | 2026-10-14 |
 | Medtronic | [Principal Platform Engineer - 12-Month Fixed-Term Contract](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/London-London-United-Kingdom/Principal-Platform-Engineer---12-Month-Fixed-Term-Contract_R77992) | London, London, United Kingdom |  | 2026-10-14 |
 | Leonardo | [Principal DevOps Engineer - Secure Environments](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Principal-DevOps-Engineer---Secure-Environments_R0034149) | GB - Bristol - Coldharbour Lane |  | 2026-10-14 |
@@ -710,28 +724,6 @@ Filterable page: [jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs](https:/
 | Cloudflare | [Senior Product Manager, Cloudflare Workers](https://boards.greenhouse.io/cloudflare/jobs/8166601?gh_jid=8166601) | London, United Kingdom (hybrid) |  | 2026-10-13 |
 | Qube Research & Technologies | [Quantitative Developer - Front End, React/C#](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8883229002) | London |  | 2026-10-13 |
 | Neo4j | [Software Engineer - Graph Analytics](https://boards.greenhouse.io/neo4j/jobs/4721380006?gh_jid=4721380006) | London |  | 2026-10-13 |
-| Salesforce | [Backend Java Engineer - Revenue Cloud Rating](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---England---Remote/Member-of-Technical-Staff--Revenue-Cloud-Rating---Backend-Java-Engineer_JR362562) | United Kingdom - England - Remote (remote) |  | 2026-10-13 |
-| Leonardo | [Lead Software Engineer – Information Advantage](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Lead-Software-Engineer---Information-Advantage_R0034001) | GB - Edinburgh |  | 2026-10-13 |
-| Leonardo | [Software Engineer (Senior Levels)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Software-Engineer--Senior-Levels-_R0031711) | GB - Edinburgh | GBP 38k-50k | 2026-10-13 |
-| GSK | [Principal Programmer Analyst](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Principal-Programmer-Analyst_449406) | UK - Hertfordshire - Stevenage (hybrid) |  | 2026-10-13 |
-| Global Payments | [Senior Product Manager - Payouts (Open)](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Senior-Product-Manager---Payouts--Open-_R0076083) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-10-13 |
-| Global Payments | [Senior ML Software Engineer](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LONDON--UNITED-KINGDOM/Senior-ML-Software-Engineer_R0076084) | LONDON, , UNITED KINGDOM (hybrid) |  | 2026-10-13 |
-| Global Payments | [Java Software Engineer (Cambridge)](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CAMBRIDGE--UNITED-KINGDOM/Java-Software-Engineer--Cambridge-_R0075460-1) | CAMBRIDGE, , UNITED KINGDOM (hybrid) |  | 2026-10-13 |
-| Kurt Geiger | [E-Learning Developer & Community Executive - Business by Design Academy](https://apply.workable.com/j/9DC4DD895C) | London, England, United Kingdom |  | 2026-10-13 |
-| Profile Software | [AI & Machine Learning Engineer](https://apply.workable.com/j/2B3381A9CF) | London, England, United Kingdom |  | 2026-10-13 |
-| 9fin | [Senior Product Manager](https://jobs.ashbyhq.com/9fin/00d51225-d7b6-49e3-91fd-70a440beaed3) | London |  | 2026-10-12 |
-| Healthtech-1 | [Product Designer](https://jobs.ashbyhq.com/Healthtech-1/a19c81bb-897d-4db1-bddb-dc72c03aa48f) | Stratford, East London (onsite) |  | 2026-10-12 |
-| ServiceNow | [Senior Manager, Platform Architecture, Public Sector](https://jobs.smartrecruiters.com/ServiceNow/744000155038869) | Staines, United Kingdom (hybrid) |  | 2026-10-12 |
-| AJ Bell | [Senior Infrastructure Engineer](https://jobs.smartrecruiters.com/AJBell1/744000154996079) | Manchester/Hybrid, United Kingdom (hybrid) |  | 2026-10-12 |
-| Epic Games | [Senior Machine Learning Programmer](https://epicgames.com/careers/jobs/6222447004?gh_jid=6222447004) | London |  | 2026-10-12 |
-| Cloudflare | [Senior Systems Engineer - Developer Tooling](https://boards.greenhouse.io/cloudflare/jobs/8273693?gh_jid=8273693) | London, United Kingdom (hybrid) | EUR 66k-91k | 2026-10-12 |
-| Datatonic | [Principal Data Architect](https://jobs.ashbyhq.com/datatonic/06f217fd-d639-461a-bc16-d72481cc47df) | London (onsite) |  | 2026-10-12 |
-| BEUMER Group | [Global Graduate Automation Engineer](https://jobs.smartrecruiters.com/BEUMERGroup1/744000154976400) | Ashby-de-la-Zouch, England, United Kingdom (hybrid) |  | 2026-10-12 |
-| NICE | [Senior Software Engineer](https://boards.eu.greenhouse.io/nice/jobs/5001012101?gh_jid=5001012101) | United Kingdom - Southampton |  | 2026-10-12 |
-| Enfuce | [Product Manager - Card Issuing](https://enfuceoy.teamtailor.com/jobs/8530145-product-manager-card-issuing) | London, United Kingdom (remote) |  | 2026-10-12 |
-| THG | [Data Engineer (Customer)](https://www.thg.com/talent/job-search?gh_jid=5003312101) | UK, Manchester |  | 2026-10-12 |
-| Qube Research & Technologies | [Software Engineer - Research Platforms](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8883144002) | London |  | 2026-10-12 |
-| NICE | [Senior Software Architect](https://boards.eu.greenhouse.io/nice/jobs/4902448101?gh_jid=4902448101) | United Kingdom - Southampton |  | 2026-10-12 |
 
 ## Get this feed yourself
 
